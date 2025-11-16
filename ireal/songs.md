@@ -1,1 +1,1 @@
-[Summertime (Funky)](.summertime-funk.irealbook)
+[Summertime (Funky)](./summertime-funk.irealbook)
